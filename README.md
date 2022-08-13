@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sojumoscow
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 sojumoscow/sojumoscow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
